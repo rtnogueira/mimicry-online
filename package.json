@@ -1,0 +1,13 @@
+{
+  "name": "mimicry-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "online game",
+  "main": "index.js",
+  "repository": "https://github.com/rtnogueira/mimicry-online.git",
+  "author": "Tiago Nogueira <rubentiagonogueira@gmail.com>",
+  "contributors": [
+    "Marisa Roque"
+  ],
+  "license": "MIT"
+}
